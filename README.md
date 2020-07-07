@@ -10,4 +10,4 @@ It is a custom Browser built using WebView It has the ability to pop up upon sel
 # Working Screen shots
 
 # Url 
-[Alt text](https://pasteboard.co/JgxhQyz.jpg )
+![image](https://pasteboard.co/JgxhQyz.jpg )
