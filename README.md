@@ -12,7 +12,7 @@ It is a custom Browser built using WebView It has the ability to pop up upon sel
 1) Pick a link, here its facebook
  ### Link can start with protocols or else just host
  
- <img src="https://user-images.githubusercontent.com/56636039/86776197-a464d680-c075-11ea-891c-ae05d8139ba0.jpg" width="30" height="100">
+ <img src="https://user-images.githubusercontent.com/56636039/86776197-a464d680-c075-11ea-891c-ae05d8139ba0.jpg" width="200" height="400">
 
 2)Click on it
 
