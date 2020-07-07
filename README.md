@@ -9,5 +9,39 @@ It is a custom Browser built using WebView It has the ability to pop up upon sel
 
 # Working Screen shots
 
+1) Pick a link, here its facebook
+ ### Link can start with protocols or else just host
+ 
+ ![Screenshot_2020-07-07-15-05-58-716_com android mms 1](https://user-images.githubusercontent.com/56636039/86776197-a464d680-c075-11ea-891c-ae05d8139ba0.jpg)
+
+2)Click on it
+
+![Screenshot_2020-07-07-15-06-06-947_android 1](https://user-images.githubusercontent.com/56636039/86776902-353bb200-c076-11ea-9c94-308ef166cd34.jpg)
+
+3)Loading 
+
+![Screenshot_2020-07-07-15-06-48-558_com example webview](https://user-images.githubusercontent.com/56636039/86777554-ed695a80-c076-11ea-94b8-576775bef70b.jpg)
+
+4)Webpage opened
+
+![Screenshot_2020-07-07-15-06-16-671_com example webview](https://user-images.githubusercontent.com/56636039/86777587-f6f2c280-c076-11ea-8a54-4bb3403a499d.jpg)
+
+5)before closing webpage content gets stored and retrived and when app reopens just like chrome
+
+![Screenshot_2020-07-07-15-10-09-270_com example webview](https://user-images.githubusercontent.com/56636039/86778180-ae87d480-c077-11ea-8851-9aed4e0be62b.jpg)
+
+6)url search
+
+![Screenshot_2020-07-07-15-11-21-053_com example webview](https://user-images.githubusercontent.com/56636039/86777609-ff4afd80-c076-11ea-8f02-0facaa614e61.jpg)
+
+7)Custom search
+
+![Screenshot_2020-07-07-15-13-51-543_com example webview](https://user-images.githubusercontent.com/56636039/86777637-083bcf00-c077-11ea-80af-7084d9d8c8b7.jpg)
+
+8)in-link browsing
+
+![Screenshot_2020-07-07-15-18-03-946_com example webview](https://user-images.githubusercontent.com/56636039/86777659-112ca080-c077-11ea-8e7d-b8341da54b37.jpg)
+
 # Url 
-![solarized palette](https://pasteboard.co/JgxhQyz.jpg )
+
+
